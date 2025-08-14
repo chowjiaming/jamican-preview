@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#009B3A"/>
+      <stop offset="100%" stop-color="#FED100"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg2)"/>
+  <rect x="200" y="260" width="800" height="280" rx="60" fill="#FED100" opacity="0.92"/>
+  <text x="50%" y="50%" text-anchor="middle" font-size="64" font-family="sans-serif" fill="#1a1a1a" font-weight="700">Festival Dumplings</text>
+  <text x="50%" y="60%" text-anchor="middle" font-size="28" font-family="sans-serif" fill="#1a1a1a">Sweet • Crispy • Soft</text>
+</svg>
+
+

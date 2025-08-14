@@ -57,7 +57,7 @@ export default function Home() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: "url('/elegant-jamaican-restaurant.png')",
+            backgroundImage: "url('/elegant-jamaican-restaurant.svg')",
           }}
         />
         <div className="absolute inset-0 bg-black/50" />
@@ -115,7 +115,7 @@ export default function Home() {
             </div>
             <div className="relative">
               <img
-                src="/elegant-jamaican-restaurant.png"
+                src="/elegant-jamaican-restaurant.svg"
                 alt="JamIcan catering setup"
                 className="rounded-lg shadow-lg w-full h-96 object-cover"
               />
@@ -141,7 +141,7 @@ export default function Home() {
             <Card className="group hover:shadow-lg transition-all duration-300 hover:scale-105">
               <CardContent className="p-6">
                 <img
-                  src="/placeholder-acxzg.png"
+                  src="/jamaican-patties.svg"
                   alt="Jamaican Patties"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
@@ -158,7 +158,7 @@ export default function Home() {
             <Card className="group hover:shadow-lg transition-all duration-300 hover:scale-105">
               <CardContent className="p-6">
                 <img
-                  src="/jamaican-festival-dumplings.png"
+                  src="/jamaican-festival-dumplings.svg"
                   alt="Festival"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
@@ -175,7 +175,7 @@ export default function Home() {
             <Card className="group hover:shadow-lg transition-all duration-300 hover:scale-105">
               <CardContent className="p-6">
                 <img
-                  src="/grilled-jerk-chicken.png"
+                  src="/grilled-jerk-chicken.svg"
                   alt="Jerk Chicken"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
@@ -192,7 +192,7 @@ export default function Home() {
             <Card className="group hover:shadow-lg transition-all duration-300 hover:scale-105">
               <CardContent className="p-6">
                 <img
-                  src="/jamaican-curry-goat.png"
+                  src="/jamaican-curry-goat.svg"
                   alt="Curry Goat"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
@@ -209,7 +209,7 @@ export default function Home() {
             <Card className="group hover:shadow-lg transition-all duration-300 hover:scale-105">
               <CardContent className="p-6">
                 <img
-                  src="/ackee-and-saltfish.png"
+                  src="/ackee-and-saltfish.svg"
                   alt="Ackee and Saltfish"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
@@ -226,7 +226,7 @@ export default function Home() {
             <Card className="group hover:shadow-lg transition-all duration-300 hover:scale-105">
               <CardContent className="p-6">
                 <img
-                  src="/jamaican-oxtail-stew.png"
+                  src="/jamaican-oxtail-stew.svg"
                   alt="Oxtail"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />

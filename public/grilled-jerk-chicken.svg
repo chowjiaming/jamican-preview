@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#009B3A"/>
+      <stop offset="100%" stop-color="#FED100"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg3)"/>
+  <g opacity="0.9">
+    <rect x="220" y="300" width="760" height="40" fill="#5b3a29"/>
+    <rect x="220" y="360" width="760" height="40" fill="#5b3a29"/>
+    <rect x="220" y="420" width="760" height="40" fill="#5b3a29"/>
+  </g>
+  <text x="50%" y="55%" text-anchor="middle" font-size="64" font-family="sans-serif" fill="#ffffff" font-weight="700">Jerk Chicken</text>
+  <text x="50%" y="65%" text-anchor="middle" font-size="28" font-family="sans-serif" fill="#ffffff" opacity="0.9">Smoky • Spicy • Authentic</text>
+</svg>
+
+
